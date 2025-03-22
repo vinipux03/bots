@@ -1,0 +1,64 @@
+{
+    "menu_title": "Grill",
+    "description": "Vyzkoušej dokonale ugrilované maso plné šťávy a chuti! Používáme jen kvalitní suroviny, pečlivé koření a správnou dávku ohně, aby každé sousto bylo zážitkem. Objednej si u nás a vychutnej si grilovanou dobrotu, která tě nenechá chladným!",
+    "categories": [
+      {
+        "name": "Combo menu",
+        "items": [
+          {
+            "name": "Grilované vepřové maso se zeleninou a pečenými brambory na sádle (650g)",
+            "description": "(maso 400 g, grilovaná zelenina, grilované brambory s máslem)",
+            "price": "430 Kč"
+          },
+          {
+            "name": "Grilované kuřecí maso se zeleninou a pečenými brambory na sádle (600g)",
+            "description": "(kuřecí křídla, kuřecí kolínka, grilovaná zelenina, pečené brambory)",
+            "price": "375 Kč"
+          },
+          {
+            "name": "Grilovaný Lulia Kebab se zeleninou a pečenými bramborami (600g)",
+            "description": "(Lulia kebab 400g, grilovaná zelenina, pečené brambory)",
+            "price": "385 Kč"
+          },
+          {
+            "name": "Grilovaný sýr s omáčkou",
+            "description": "(sýr)",
+            "price": "165 Kč"
+          },
+          {
+            "name": "Velká porce pro velkou skupinu (4kg)",
+            "description": "(Grilované vepřové maso 1 kg, KUŘECÍ směs 1 kg, lulia kebab 1 kg, grilovaná zelenina a pečené brambory)",
+            "price": "2 890 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Klasika",
+        "items": [
+          {
+            "name": "Grilované vepřové maso šašlik (400g)",
+            "price": "275 Kč"
+          },
+          {
+            "name": "Grilované kuřecí maso šašlik (400g)",
+            "price": "235 Kč"
+          },
+          {
+            "name": "Grilovaný Lulia Kebab (400g)",
+            "price": "255 Kč"
+          },
+          {
+            "name": "Grilovaná zelenina (300g)",
+            "description": "(rajčata, paprika, žampiony, kukuřice)",
+            "price": "155 Kč"
+          },
+          {
+            "name": "Grilované brambory se sádlem (300g)",
+            "description": "(brambory, sádlo)",
+            "price": "125 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

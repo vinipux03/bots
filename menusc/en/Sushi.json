@@ -1,0 +1,62 @@
+{
+    "menu_title": "Sushi Menu",
+    "description": "Enjoy carefully crafted sushi made from the freshest ingredients. Each piece is a masterpiece of delicious rice, high-quality fish, and perfectly balanced flavors. Order from us and experience authentic Japanese cuisine!",
+    "categories": [
+      {
+        "name": "AUTHORS' SPECIALS",
+        "items": [
+          {
+            "name": "Cheese Roll",
+            "description": "(nori, rice, cream cheese, cheddar cheese)",
+            "price": "180 Kč"
+          },
+          {
+            "name": "Fried Salmon and Cheddar Roll",
+            "description": "(nori, rice, avocado, cream cheese, salmon, cheddar, nut sauce)",
+            "price": "240 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Fish",
+        "items": [
+          {
+            "name": "Cucumber and Avocado Roll",
+            "description": "(nori, rice, cucumber, avocado)",
+            "price": "120 Kč"
+          },
+          {
+            "name": "TEMPURA with Eel",
+            "description": "(nori, rice, eel, cucumber, tempura coating, sesame seeds, cream cheese, caviar, masago)",
+            "price": "200 Kč"
+          },
+          {
+            "name": "With Salmon",
+            "description": "(nori, rice, salmon, avocado, tempura coating, masago caviar, cream cheese)",
+            "price": "200 Kč"
+          },
+          {
+            "name": "With Shrimp",
+            "description": "(nori, rice, avocado, cream cheese, shrimp, tempura batter, panko breadcrumbs, Japanese mayo, Parmesan, sesame seeds, pineapple chili sauce)",
+            "price": "210 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Vegan",
+        "items": [
+          {
+            "name": "Mango and Avocado Roll",
+            "description": "(nori, rice, mango, avocado, unagi sauce)",
+            "price": "120 Kč"
+          },
+          {
+            "name": "Vegetable Roll",
+            "description": "(nori, rice, Japanese mayo, cucumber, bell pepper, avocado)",
+            "price": "150 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

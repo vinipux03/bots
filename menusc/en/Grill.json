@@ -1,0 +1,64 @@
+{
+    "menu_title": "Grill Menu",
+    "description": "Try perfectly grilled meat full of juices and flavor! We use only high-quality ingredients, careful seasoning, and the right amount of fire to make every bite a delight. Order from us and enjoy a grilled treat that won’t leave you indifferent!",
+    "categories": [
+      {
+        "name": "Combo Menu",
+        "items": [
+          {
+            "name": "Grilled Pork with Vegetables and Roasted Potatoes (650g)",
+            "description": "(400g pork, grilled vegetables, roasted potatoes with butter)",
+            "price": "430 Kč"
+          },
+          {
+            "name": "Grilled Chicken with Vegetables and Roasted Potatoes (600g)",
+            "description": "(chicken wings, chicken drumsticks, grilled vegetables, roasted potatoes)",
+            "price": "375 Kč"
+          },
+          {
+            "name": "Grilled Lulia Kebab with Vegetables and Roasted Potatoes (600g)",
+            "description": "(400g Lulia kebab, grilled vegetables, roasted potatoes)",
+            "price": "385 Kč"
+          },
+          {
+            "name": "Grilled Cheese with Sauce",
+            "description": "(cheese)",
+            "price": "165 Kč"
+          },
+          {
+            "name": "Large Portion for a Big Group (4kg)",
+            "description": "(1kg Grilled Pork, 1kg Chicken Mix, 1kg Lulia Kebab, grilled vegetables and roasted potatoes)",
+            "price": "2 890 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Classics",
+        "items": [
+          {
+            "name": "Grilled Pork Shashlik (400g)",
+            "price": "275 Kč"
+          },
+          {
+            "name": "Grilled Chicken Shashlik (400g)",
+            "price": "235 Kč"
+          },
+          {
+            "name": "Grilled Lulia Kebab (400g)",
+            "price": "255 Kč"
+          },
+          {
+            "name": "Grilled Vegetables (300g)",
+            "description": "(tomatoes, bell peppers, mushrooms, corn)",
+            "price": "155 Kč"
+          },
+          {
+            "name": "Grilled Potatoes with Lard (300g)",
+            "description": "(potatoes, lard)",
+            "price": "125 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

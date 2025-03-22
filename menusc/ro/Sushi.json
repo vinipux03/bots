@@ -1,0 +1,52 @@
+{
+    "menu_title": "Meniu Sushi",
+    "description": "Savurează sushi-ul pregătit cu grijă din cele mai proaspete ingrediente. Fiecare bucățică este o combinație perfectă de orez delicat, pește de calitate și arome echilibrate. Comandă la noi și bucură-te de o experiență autentică japoneză!",
+    "categories": [
+      {
+        "name": "Rulouri Autentice",
+        "items": [
+          {
+            "name": "Rulou cu brânză",
+            "description": "(nori, orez, brânză cremoasă, brânză cheddar)",
+            "price": "180 Kč"
+          },
+          {
+            "name": "Rulou cu somon prăjit și cheddar",
+            "description": "(nori, orez, avocado, brânză cremoasă, somon, cheddar, sos de nuci)",
+            "price": "240 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Pește",
+        "items": [
+          {
+            "name": "Rulou cu castravete și avocado",
+            "description": "(nori, orez, castravete, avocado)",
+            "price": "120 Kč"
+          },
+          {
+            "name": "Tempura cu anghilă",
+            "description": "(nori, orez, anghilă, castravete, tempura, semințe de susan, brânză cremoasă, caviar masago)",
+            "price": "200 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Rulouri Vegane",
+        "items": [
+          {
+            "name": "Rulou cu mango și avocado",
+            "description": "(nori, orez, mango, avocado, sos unagi)",
+            "price": "120 Kč"
+          },
+          {
+            "name": "Rulou de legume",
+            "description": "(nori, orez, maioneză japoneză, castravete, ardei gras, avocado)",
+            "price": "150 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "menu_title": "Sushi Sets",
+    "description": "Can’t decide? Our sushi sets offer you the best of Japanese cuisine in one package! A combination of fresh nigiri, maki, sashimi, and other delicacies will delight every sushi lover. Choose your favorite set and enjoy the perfect harmony of flavors!",
+    "categories": [
+      {
+        "name": "SETS",
+        "items": [
+          {
+            "name": "Big One (2kg)",
+            "description": "• Avocado Maki\n• Baked Roll with Chicken\n• Philadelphia with XXL Salmon\n• California with Shrimp\n• Cheese Roll\n• Philadelphia De Luxe\n• Tempura Roll with Eel",
+            "price": "1 390 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Fish",
+        "items": [
+          {
+            "name": "Phila Set (1,250 kg)",
+            "description": "• Philadelphia with Salmon\n• Philadelphia with Tuna\n• Philadelphia with XXL Salmon\n• Philadelphia Mango",
+            "price": "950 Kč"
+          },
+          {
+            "name": "Set for Two (700g)",
+            "description": "• Philadelphia with Salmon\n• Baked Roll with Chicken\n• Cheese Roll",
+            "price": "600 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Vegan",
+        "items": [
+          {
+            "name": "Vegan Set (800g)",
+            "description": "• Vegan Roll with Mango and Avocado\n• Vegan Roll with Cucumber and Avocado\n• Cheese Roll\n• Vegetable Roll",
+            "price": "450 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

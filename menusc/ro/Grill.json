@@ -1,0 +1,64 @@
+{
+    "menu_title": "Meniu Grill",
+    "description": "Încearcă carnea perfect gătită la grătar, plină de sucuri și savoare! Folosim doar ingrediente de calitate, condimente atent alese și doza potrivită de foc pentru a face fiecare mușcătură o experiență culinară de neuitat!",
+    "categories": [
+      {
+        "name": "Meniu Combo",
+        "items": [
+          {
+            "name": "Carne de porc la grătar cu legume și cartofi copți (650 g)",
+            "description": "(400 g carne, legume la grătar, cartofi copți cu unt)",
+            "price": "430 Kč"
+          },
+          {
+            "name": "Carne de pui la grătar cu legume și cartofi copți (600 g)",
+            "description": "(aripioare de pui, pulpe de pui, legume la grătar, cartofi copți)",
+            "price": "375 Kč"
+          },
+          {
+            "name": "Lulia Kebab la grătar cu legume și cartofi copți (600 g)",
+            "description": "(400 g Lulia kebab, legume la grătar, cartofi copți)",
+            "price": "385 Kč"
+          },
+          {
+            "name": "Brânză la grătar cu sos",
+            "description": "(brânză)",
+            "price": "165 Kč"
+          },
+          {
+            "name": "Porție Mare pentru un Grup Mare (4 kg)",
+            "description": "(1 kg carne de porc la grătar, 1 kg amestec de pui, 1 kg Lulia kebab, legume la grătar și cartofi copți)",
+            "price": "2 890 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Clasice",
+        "items": [
+          {
+            "name": "Frigărui de porc la grătar (400 g)",
+            "price": "275 Kč"
+          },
+          {
+            "name": "Frigărui de pui la grătar (400 g)",
+            "price": "235 Kč"
+          },
+          {
+            "name": "Lulia Kebab la grătar (400 g)",
+            "price": "255 Kč"
+          },
+          {
+            "name": "Legume la grătar (300 g)",
+            "description": "(roșii, ardei gras, ciuperci, porumb)",
+            "price": "155 Kč"
+          },
+          {
+            "name": "Cartofi copți cu untură (300 g)",
+            "description": "(cartofi, untură)",
+            "price": "125 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

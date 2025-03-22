@@ -1,0 +1,162 @@
+{
+    "menu_title": "Sushi Menu",
+    "description": "Vychutnej si pečlivě připravené sushi z těch nejčerstvějších surovin. Každý kousek je mistrovské spojení lahodné rýže, kvalitních ryb a perfektně vyvážených chutí. Objednej si u nás a dopřej si autentický japonský zážitek!",
+    "categories": [
+      {
+        "name": "AUTORSKÉ",
+        "items": [
+          {
+            "name": "Sýrový roll",
+            "description": "(nori, rýže, smetanový sýr, sýr čedar)",
+            "price": "180 Kč"
+          },
+          {
+            "name": "Roll se smaženým lososem a čedarem",
+            "description": "(nori, rýže, avokádo, smetanový sýr, losos, čedar, ořechová omáčka)",
+            "price": "240 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Ryby",
+        "items": [
+          {
+            "name": "Roll s okurkou a avokádem",
+            "description": "(nori, rýže, okurka, avokádo)",
+            "price": "120 Kč"
+          },
+          {
+            "name": "TEMPURA S úhořem",
+            "description": "(nori, rýže, úhoř, okurka, tempurový obal, sezamová semínka, smetanový sýr, kaviár, masago)",
+            "price": "200 Kč"
+          },
+          {
+            "name": "S lososem",
+            "description": "(nori, rýže, losos, avokádo, tempurový obal, kaviár masago, smetanový sýr)",
+            "price": "200 Kč"
+          },
+          {
+            "name": "S krevetami",
+            "description": "(nori, rýže, avokádo, smetanový sýr, krevety, těstíčko tempura, panko strouhanka, japonská majonéza, parmazán, sezamová semínka, ananasová chilli omáčka)",
+            "price": "210 Kč"
+          },
+          {
+            "name": "PANKO / STROUHANKA S úhořem unagi",
+            "description": "(nori, rýže, avokádo, smetanový sýr, okurka, těsto, panko strouhanka, sezamová semínka, japonská majonéza, omáčka unagi, ořechová omáčka, úhoř)",
+            "price": "280 Kč"
+          },
+          {
+            "name": "S krevetami",
+            "description": "(nori, rýže, avokádo, smetanový sýr, krevety, těstíčko tempura, panko strouhanka, japonská majonéza, parmazán, sezamová semínka, ananasová chilli omáčka)",
+            "price": "210 Kč"
+          },
+          {
+            "name": "CALIFORNIA S lososem v sezamu",
+            "description": "(nori, rýže, sezamová semínka, losos, avokádo, okurka, japonská majonéza)",
+            "price": "200 Kč"
+          },
+          {
+            "name": "S tuňákem a kaviárem",
+            "description": "(nori, rýže, kaviár masago, tuňák, avokádo, okurka, japonská majonéza)",
+            "price": "200 Kč"
+          },
+          {
+            "name": "S krevetami a kaviárem",
+            "description": "(nori, rýže, kaviár massago, krevety, avokádo, okurka, japonská majonéza)",
+            "price": "220 Kč"
+          },
+          {
+            "name": "S úhořem sezamu",
+            "description": "(nori, rýže, sezamová semínka, úhoř, avokádo, okurka, japonská majonéza)",
+            "price": "230 Kč"
+          },
+          {
+            "name": "MAKI S okurkou",
+            "description": "(nori, rýže, okurka)",
+            "price": "90 Kč"
+          },
+          {
+            "name": "MAKI S avokádem",
+            "description": "(nori, rýže, avokádo)",
+            "price": "90 Kč"
+          },
+          {
+            "name": "MAKI S lososem",
+            "description": "(nori, rýže, losos)",
+            "price": "110 Kč"
+          },
+          {
+            "name": "S úhořem",
+            "description": "(nori, rýže, úhoř)",
+            "price": "160 Kč"
+          },
+          {
+            "name": "PEČENÉ S kuřecím masem",
+            "description": "(nori, rýže, okurka, smetanový sýr, kuřecí filé, kaviár massago, sýr čedar, sezamová semínka, omáčka unagi)",
+            "price": "220 Kč"
+          },
+          {
+            "name": "S pikantními krevtami",
+            "description": "(nori, rýže, sýr, čedar, okurka, japonská majonéza, omáčka, sriracha, ořechová omáčka, sezamová semínka)",
+            "price": "220 Kč"
+          },
+          {
+            "name": "PHILADELPHIA S lososem",
+            "description": "(nori, rýže, sýr Philadelphia, avokádo, losos)",
+            "price": "220 Kč"
+          },
+          {
+            "name": "PHILADELPHIA S tuňákem",
+            "description": "(nori, rýže, sýr Philadelphia, okurka, tuňák)",
+            "price": "280 Kč"
+          },
+          {
+            "name": "PHILADELPHIA S krevetami",
+            "description": "(nori, rýže, sýr Philadelphia, avokádo, krevety, losos)",
+            "price": "220 Kč"
+          },
+          {
+            "name": "Philadelphia s úhořem",
+            "description": "(nori, rýže, losos, sýr Philadelphia, avokádo)",
+            "price": "290 Kč"
+          },
+          {
+            "name": "Philadelphia s lososem XXL",
+            "description": "(nori, rýže, losos, sýr Philadelphia, avokádo, kaviár)",
+            "price": "260 Kč"
+          },
+          {
+            "name": "Philadelphia De Luxe",
+            "description": "(nori, rýže, losos, sýr Philadelphia, avokádo, kaviár)",
+            "price": "310 Kč"
+          },
+          {
+            "name": "Philadelphia mango",
+            "description": "(nori, rýže, losos, sýr Philadelphia, mangová omáčka, ananas, chilli)",
+            "price": "?"
+          }
+        ]
+      },
+      {
+        "name": "Veganské",
+        "items": [
+          {
+            "name": "Roll s mangem a avokádem",
+            "description": "(nori, rýže, mango, avokádo, omáčka unagi)",
+            "price": "120 Kč"
+          },
+          {
+            "name": "Zeleninová rolka",
+            "description": "(nori, rýže, japonská majonéza, okurka, paprika, avokádo)",
+            "price": "150 Kč"
+          },
+          {
+            "name": "Krevety panko",
+            "description": "(3 krevety, strouhanka panko, tempurový obal, sladkokyselá omáčka)",
+            "price": "160 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

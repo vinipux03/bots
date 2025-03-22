@@ -1,0 +1,141 @@
+{
+    "uk": {
+      "stop_words": [
+        "порадь",
+        "порекомендуй",
+        "запропонуй",
+        "suggest",
+        "recommend",
+        "що у вас є в меню",
+        "є в меню",
+        "поїсти",
+        "що можна поїсти"
+      ],
+      "synonyms": {
+        "sushi": ["суші", "рол", "ролли", "maki", "макі"],
+        "grill": ["гриль", "барбекю", "м'ясо", "шашлик", "стейк"],
+        "sety": ["сети", "набір", "комплект", "sety", "set"]
+      },
+      "extra_phrases": [
+        "на вечір",
+        "вечірнє меню",
+        "вечірні страви",
+        "рекомендуй на вечір",
+        "замов на вечір"
+      ]
+    },
+    "ru": {
+      "stop_words": [
+        "посоветуй",
+        "порекомендуй",
+        "предложи",
+        "suggest",
+        "recommend",
+        "что у вас есть в меню",
+        "есть в меню",
+        "покушать",
+        "поесть",
+        "есть что поесть"
+      ],
+      "synonyms": {
+        "sushi": ["суши", "роллы", "рол", "maki", "макі"],
+        "grill": ["гриль", "барбекю", "мясо", "шашлык", "стейк"],
+        "sety": ["сеты", "сет", "sety", "set"]
+      },
+      "extra_phrases": [
+        "на вечер",
+        "на ужин",
+        "вечернее меню",
+        "вечерние блюда",
+        "рекомендуй на вечер",
+        "заказ на вечер"
+      ]
+    },
+    "cs": {
+      "stop_words": [
+        "doporuč",
+        "navrhni",
+        "suggest",
+        "recommend",
+        "co máte v nabídce",
+        "máte v nabídce",
+        "sněst",
+        "najíst se"
+      ],
+      "synonyms": {
+        "sushi": ["sushi", "rolky", "maki"],
+        "grill": ["gril", "barbecue", "maso", "šašlik", "steak"],
+        "sety": ["sety", "sady", "set"]
+      },
+      "extra_phrases": []
+    },
+    "en": {
+      "stop_words": [
+        "recommend",
+        "suggest",
+        "propose",
+        "what do you have on your menu",
+        "menu",
+        "eat",
+        "dine"
+      ],
+      "synonyms": {
+        "sushi": ["sushi", "rolls", "maki"],
+        "grill": ["grill", "barbecue", "meat", "shashlik", "steak"],
+        "sety": ["sets", "set", "combo", "assortment"]
+      },
+      "extra_phrases": [
+        "evening",
+        "dinner",
+        "evening menu",
+        "suggest dinner",
+        "what to order for dinner"
+      ]
+    },
+    "md": {
+      "stop_words": [
+        "recomandă",
+        "sugerează",
+        "propune",
+        "ce aveți în meniu",
+        "există în meniu",
+        "mănâncă",
+        "mâncați"
+      ],
+      "synonyms": {
+        "sushi": ["sushi", "role", "maki"],
+        "grill": ["grill", "barbecue", "carne", "șașlic", "steak"],
+        "sety": ["seturi", "set", "combo"]
+      },
+      "extra_phrases": [
+        "pentru seară",
+        "cină",
+        "meniul de seară",
+        "sugerează cină"
+      ]
+    },
+    "ro": {
+      "stop_words": [
+        "recomandă",
+        "sugerează",
+        "propune",
+        "ce aveți în meniu",
+        "există în meniu",
+        "mănâncă",
+        "mâncați"
+      ],
+      "synonyms": {
+        "sushi": ["sushi", "role", "maki"],
+        "grill": ["grill", "barbecue", "carne", "șașlic", "steak"],
+        "sety": ["seturi", "set", "combo"]
+      },
+      "extra_phrases": [
+        "pentru seară",
+        "cină",
+        "meniul de seară",
+        "sugerează cină",
+        "ce să comanzi pentru seară"
+      ]
+    }
+  }
+    

@@ -1,0 +1,47 @@
+{
+    "menu_title": "SETY",
+    "description": "Nemůžeš se rozhodnout? Naše sushi sety ti nabídnou to nejlepší z japonské kuchyně v jednom balení! Kombinace čerstvých nigiri, maki, sashimi a dalších lahůdek potěší každého milovníka sushi. Vyber si svůj oblíbený set a vychutnej si dokonalou harmonii chutí!",
+    "categories": [
+      {
+        "name": "SETY",
+        "items": [
+          {
+            "name": "Big One (2kg)",
+            "description": "• Maki Avokádové\n• Pečená rolka s kuřecím masem\n• Philadelphia s lososem XXL\n• Kalifornie s krevetami\n• Sýrová Rolka\n• Philadelphia De Luxe\n• Tempura rolka s úhořem",
+            "price": "1 390 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Ryby",
+        "items": [
+          {
+            "name": "Phila set (1,250 kg)",
+            "description": "• Philadelphia s lososem\n• Philadelphia s tuňákem\n• Philadelphia s lososem XXL\n• Philadelphia Mango",
+            "price": "950 Kč"
+          },
+          {
+            "name": "Set pro dvě osoby (700g)",
+            "description": "• Philadelphia s lososem\n• Pečená rolka s kuřecím masem\n• Sýrová Rolka",
+            "price": "600 Kč"
+          },
+          {
+            "name": "Teplý set (1 kg)",
+            "description": "• Tempura rolka s krevetami\n• Panko Roll s úhořem v unagi\n• Pečená rolka s lososem\n• Pečená rolka s kuřecím masem",
+            "price": "840 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Veganské",
+        "items": [
+          {
+            "name": "Vegan set (800g)",
+            "description": "• Veganská rolka s mangem a avokádem\n• Veganská rolka s okurkou a avokádem\n• Sýrová rolka\n• Zeleninová rolka",
+            "price": "450 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  

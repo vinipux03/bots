@@ -1,0 +1,37 @@
+{
+    "menu_title": "Meniu Seturi",
+    "description": "Nu poți decide? Seturile noastre de sushi îți oferă ce e mai bun din bucătăria japoneză într-un singur pachet! O combinație de nigiri proaspete, maki, sashimi și alte delicii care vor încânta orice iubitor de sushi. Alege setul tău preferat și savurează armonia perfectă a gusturilor!",
+    "categories": [
+      {
+        "name": "Seturi",
+        "items": [
+          {
+            "name": "Big One (2 kg)",
+            "description": "• Avocado Maki\n• Rulou copt cu pui\n• Philadelphia XXL cu somon\n• California cu creveți\n• Rulou cu brânză\n• Philadelphia De Luxe\n• Tempura rulou cu anghilă",
+            "price": "1 390 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Seturi cu Pește",
+        "items": [
+          {
+            "name": "Phila Set (1,250 kg)",
+            "description": "• Philadelphia cu somon\n• Philadelphia cu ton\n• Philadelphia XXL\n• Philadelphia Mango",
+            "price": "950 Kč"
+          }
+        ]
+      },
+      {
+        "name": "Seturi Vegane",
+        "items": [
+          {
+            "name": "Set Vegan (800 g)",
+            "description": "• Rulou vegan cu mango și avocado\n• Rulou vegan cu castravete și avocado\n• Rulou cu brânză\n• Rulou de legume",
+            "price": "450 Kč"
+          }
+        ]
+      }
+    ]
+  }
+  
