@@ -1,3 +1,49 @@
-.env
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+*.env
+
+# VSCode / PyCharm / IDE stuff
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Git-specific
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Pydantic / FastAPI cache
+__pydantic__/ 
+
+# Ignore nested Git repos (если не сабмодули)
+valera/bots_clone/
