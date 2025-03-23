@@ -29,24 +29,20 @@ async def smart_router(message: types.Message):
     user_id = message.from_user.id
     language = get_language(user_id)
 
-    # Заказ
     if any(word in text for word in ORDER_WORDS):
         await message.answer("Чтобы оформить заказ, открой меню через /menu и выбери блюдо. Я помогу с оформлением!")
         return
 
-    # Меню
     if any(word in text for word in MENU_WORDS):
         await menu_command(message)
         return
 
-    # Категории (sushi / grill / sety)
     for category, words in CATEGORY_WORDS.items():
         if any(word in text for word in words):
             recommendation = await recommend_dish(text, user_id, language)
             await message.answer(recommendation, parse_mode="HTML")
             return
 
-    # Рекомендации
     if any(word in text for word in RECOMMEND_WORDS):
         await message.answer("Секундочку, подберу для тебя что-то вкусненькое... 🍣")
         await asyncio.sleep(2)

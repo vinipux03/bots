@@ -47,3 +47,6 @@ if __name__ == "__main__":
 
 from routers.smart_router import smart_router
 dp.message()(smart_router)
+
+from routers.smart_router import smart_router
+dp.message()(smart_router)
