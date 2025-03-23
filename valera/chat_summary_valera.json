@@ -1,0 +1,32 @@
+{
+  "title": "Интеграция GitHub-бота и структура репозитория",
+  "created_at": "2025-03-23T21:47:35.255357",
+  "participants": [
+    "Пользователь (николай)",
+    "ChatGPT"
+  ],
+  "summary": "Работа над ботом на GitHub, настройка push-скриптов, генерация структуры проекта и подготовка к переносу данных в другой чат.",
+  "steps": [
+    "Создание smart_router.py и подключение его к проекту",
+    "Настройка push-скрипта с GitHub classic token",
+    "Диагностика ошибок git clone с fine-grained токенами",
+    "Создание generate_repo_structure.py для анализа файлов и содержимого",
+    "Добавление хешей и даты сканирования в JSON",
+    "Разработка compare_repo_structures.py для анализа изменений",
+    "Планы на расширение — diff-отчёты и автоматизация"
+  ],
+  "files_created": [
+    "smart_router.py",
+    "generate_repo_structure.py",
+    "compare_repo_structures.py"
+  ],
+  "key_tokens_used": [
+    "classic token (ghp_...)",
+    "fine-grained tokens (не сработали в git clone)"
+  ],
+  "automation_notes": {
+    "bot_push": "push_router.py выполняет git clone, создаёт файл, пушит",
+    "repo_analysis": "generate_repo_structure.py сохраняет JSON дерева с хешами и содержимым",
+    "comparison": "compare_repo_structures.py показывает diff между JSON"
+  }
+}
